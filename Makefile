@@ -4,4 +4,4 @@ install:
 
 .PHONY: serve
 serve:
-		poetry run uvicorn fastapi_tutorial.main:app --reload
+		poetry run uvicorn team_builder.main:app --reload
