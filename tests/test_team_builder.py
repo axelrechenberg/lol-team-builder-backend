@@ -1,4 +1,4 @@
-from fastapi_tutorial import __version__
+from team_builder import __version__
 
 
 def test_version():
