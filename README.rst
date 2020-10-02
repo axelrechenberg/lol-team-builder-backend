@@ -1,5 +1,5 @@
 ================
-fastapi-tutorial
+team-builder-backend
 ================
 
-A simple FastAPI project template created with `poetry <http://python-poetry.org/>`_
+The backend for an app used to make the process of bulding a team easier.
